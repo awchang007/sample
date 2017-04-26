@@ -5,8 +5,11 @@
 This is a sample PHP application for the re:Invent Application
 Lifecycle Management bootcamp.
 
-## Security
+**THIS IS AN EDIT BY AWCHANG56**
 
+**THIS IS AN EDIT BY AWCHANG007**
+
+## Security
 Add the following to httpd.conf:
 
     <Directory "/var/www/html/src">
